@@ -1,10 +1,3 @@
-I've been playing a little bit with the OS and files.
-
-I found the `stat` posix command. From manpage: 
->the stat utility displays information about the file pointed to by file.
-
-I'm mostly interested in two of the metadata information: Block and Block IO:
-
 Experiment:
 
 ```
